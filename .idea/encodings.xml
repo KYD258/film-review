@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Cookie-Session-Redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filmeview-user-business" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filmreview-Oauth2-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filmreview-commodity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filmreview-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filmreview-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filmreview-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filmreview-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filmreview-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filmreview-personalcenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filmreview-review" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filmreview-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filmreview-springboot-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filmreview-video" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filmreview-zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filmreview-zuul" charset="UTF-8" />
+  </component>
+</project>
